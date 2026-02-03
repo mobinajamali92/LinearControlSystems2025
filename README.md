@@ -1,4 +1,6 @@
-# Linear-Control4041
-Welcome to the Linear Control Systems Homework Repository.
+# Linear-Control2025
 
-This repository contains my university homework submissions for the Linear Control Systems course. All required files, solutions, and related documents are included here.
+
+Mobina Jamali | Khaje Nasir Toosi University
+Welcome to the Linear Control Systems Homework Repository.
+This repository contains my academic work for Linear Control Systems (taught by Dr. Hamidreza Taghirad), including homework, research notes, and projects.
